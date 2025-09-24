@@ -2,7 +2,7 @@ import myfirstpackage.*;
 
 class MyFirstClass {
     public static void main(String[] s) {
-        MyFirstPackage o = new MyFirstPackage(0, 0);
+        MySecondClass o = new MySecondClass(0, 0);
         
         int i, j;
         for (i = 1; i <= 8; i++) {
